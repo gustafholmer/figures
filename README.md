@@ -4,8 +4,7 @@ A programming project using swing to practise object-oriented programming. Diffe
 # author: Gustaf Holmer
 
 # How to run the program:
-Enable the main class in FiguresMain.java
-2. Then click anywhere in the window that appears to create random shapes.
+Enable the main class in FiguresMain.java. Then click anywhere in the window that appears to create random shapes.
 
 # How the program is organized:
 I have organized the program that it has a total of six classes, one of which is an abstract class from which three subclasses inherit. These three subclasses are the figures: square, circle and triangle.
