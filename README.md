@@ -1,7 +1,7 @@
 # figures
 A programming project using swing to practise object-oriented programming. Different shapes moves around in a window. This project was an assignment in a course about object-oriented programming.
 
-# author: Gustaf Holmer
+# Author: Gustaf Holmer
 
 # How to run the program:
 Compile and then activate FiguresMain.java. Click anywhere in the window that appears to create random shapes.
